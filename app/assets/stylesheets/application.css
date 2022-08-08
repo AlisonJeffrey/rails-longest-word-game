@@ -13,3 +13,24 @@
  *= require_tree .
  *= require_self
  */
+
+ .container {
+  text-align: center;
+ }
+
+h1, li {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h5 {
+  margin-bottom: 20px;
+}
+
+ .list-inline-item {
+  background-color: #3498DB;
+  border: 1px solid #2C86C2;
+  padding: 10px;
+  color: white;
+  box-shadow: 10px 5px 5px #F3F3F3;
+ }
